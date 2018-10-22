@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Pengaturan</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="detail_over_view">detail over view</string>
+    <string name="error_load_data">Gagal Loading</string>
+    <string name="setting_local">pengturan Local</string>
+    <string name="label_now_playing">Terkini</string>
+    <string name="label_upcoming">Mendatang</string>
+    <string name="label_search">Masukan Judul film</string>
+    <string name="change_language_setting">Pengaturan Bahasa</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="detail">Detail</string>
+    <string name="detail_overview">Detail Deskripsi:</string>
+    <string name="rating_movie">Rating Film:</string>
+    <string name="over_view">Deskripsi Film :</string>
+</resources>
